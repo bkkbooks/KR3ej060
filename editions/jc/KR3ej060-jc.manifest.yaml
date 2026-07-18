@@ -27,10 +27,10 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ej060_001-jc.markers.yaml, hash: 'sha256:70f3ff8ca70e51d4148c75bd84d9f5aa72f4cf0b0c1d7f7634e9bd24c625f362'}
   - {seq: 2, role: markers, filename: assets/KR3ej060_002-jc.markers.yaml, hash: 'sha256:852c2733cab18fd4683b1cab90386cb2a404ca69392c7ae79f724ce5473261fd'}
-  - {seq: 3, role: markers, filename: assets/KR3ej060_003-jc.markers.yaml, hash: 'sha256:9c6a5c6817e47e422e254bb5e95e642af308f72ea19426e27dcfe0270a367cf6'}
-  - {seq: 4, role: markers, filename: assets/KR3ej060_004-jc.markers.yaml, hash: 'sha256:5d0fad6c684b804fa9c290023593a2f70aeb09f82c36132d5e402321bd0b0d9b'}
-  - {seq: 5, role: markers, filename: assets/KR3ej060_005-jc.markers.yaml, hash: 'sha256:87faad11b2f1663a70d20946ca0c9bcb22a992a8d170f6cb11f79f15aa7a807a'}
-  - {seq: 6, role: markers, filename: assets/KR3ej060_006-jc.markers.yaml, hash: 'sha256:69082cb3d386f27e12f7675ebf98bf536f31b8afff0d940b2ebb1ac25558a073'}
+  - {seq: 3, role: markers, filename: assets/KR3ej060_003-jc.markers.yaml, hash: 'sha256:92471381178ddbf3c9a4b589e229d874b8472c20c6b97088fcfd64df3c0c2e29'}
+  - {seq: 4, role: markers, filename: assets/KR3ej060_004-jc.markers.yaml, hash: 'sha256:b2f197151e3e24c8796103d0792d85360e2ddba7e48b1a8ff563e64227aac66c'}
+  - {seq: 5, role: markers, filename: assets/KR3ej060_005-jc.markers.yaml, hash: 'sha256:15733e828c9181683bf79957908ba54b2c3b947b41dba942450037e53299f3aa'}
+  - {seq: 6, role: markers, filename: assets/KR3ej060_006-jc.markers.yaml, hash: 'sha256:adac39ed852f983852930bd55c06d6f2e027215995ba81b72ec599174457e07c'}
   - {seq: 7, role: markers, filename: assets/KR3ej060_007-jc.markers.yaml, hash: 'sha256:9094f635541201af4f671478cd53ba6861298f96471202ca8d1bf8beb024817f'}
 table_of_contents:
 - ref:
@@ -1343,4 +1343,4 @@ table_of_contents:
   label: 治血熱壅遏有五法
   type: section
   level: 2
-hash: sha256:2559dc5606f218455d58959ee5a0dc21d295ce49a2229b2b72f97f7f4c621485
+hash: sha256:11e250fce454c6f9529453d6fcf42e766723aea25fb02a95e7ce944a2b39bffc

@@ -27,10 +27,10 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ej060_001.markers.yaml, hash: 'sha256:ff69692382c11ed9c7535970d9ebff6dc85f61a2ca38f3f6bd1f01927324f4b5'}
   - {seq: 2, role: markers, filename: assets/KR3ej060_002.markers.yaml, hash: 'sha256:f174c19025071fd7c9d8fa91d9e89d1823e5b46173a0f00ae6980a954b7f3afa'}
-  - {seq: 3, role: markers, filename: assets/KR3ej060_003.markers.yaml, hash: 'sha256:3d4b2e60f4816b6e27687e50033ba6432996e912a5645d06b4a9d6c072c50a82'}
-  - {seq: 4, role: markers, filename: assets/KR3ej060_004.markers.yaml, hash: 'sha256:950bec4da1c23f4c59579d24dbe0ae86c0c38fbe45e4659049041ba50c71b459'}
-  - {seq: 5, role: markers, filename: assets/KR3ej060_005.markers.yaml, hash: 'sha256:713320b576dd3e5a20d4337e62f6dc7b98f24e9f7978186fd1a297dfa88f7ff4'}
-  - {seq: 6, role: markers, filename: assets/KR3ej060_006.markers.yaml, hash: 'sha256:8ec691721a9bf424efe2f0217a456cfcfb5f5463ae38d1417a3e0817b7525c66'}
+  - {seq: 3, role: markers, filename: assets/KR3ej060_003.markers.yaml, hash: 'sha256:a43cc1f60c27be09a702fc395460b603b91ebe3cb71daa161bf77a036eaa8d2e'}
+  - {seq: 4, role: markers, filename: assets/KR3ej060_004.markers.yaml, hash: 'sha256:bd1204e8fbcf0117c75cfca06f29708c4f56ad17bf06553aef06ee0df674083d'}
+  - {seq: 5, role: markers, filename: assets/KR3ej060_005.markers.yaml, hash: 'sha256:0244f0756adc7a3e02a58c37c5f8c994ff5e1c492f8f6b487f079519f278d937'}
+  - {seq: 6, role: markers, filename: assets/KR3ej060_006.markers.yaml, hash: 'sha256:f4eeabcee9a495ff0bdb7c1fabc36e4bc6a7d3123aeebdac14fd8a4f7ac2d00d'}
   - {seq: 7, role: markers, filename: assets/KR3ej060_007.markers.yaml, hash: 'sha256:5e27dd2f9401e985984334239d2a82ab8700d1104a8519b12dbe96bfe14db151'}
 table_of_contents:
 - ref:
@@ -1343,7 +1343,7 @@ table_of_contents:
   label: 治血熱壅遏有五法
   type: section
   level: 2
-hash: sha256:11dab0aebb9c331a708aaac396160cdf577417054d5f651c0fc71df18296d843
+hash: sha256:26d75d0ead11e08a17392e566217e3abf86459028ea39e3e478447b6ceb985c6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
