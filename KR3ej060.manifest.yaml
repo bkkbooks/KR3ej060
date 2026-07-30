@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ej060_001.yaml, hash: 'sha256:8fdaa3e86540fae909cfff95bcfa526bbb875ee486f3ae11ea1a71346a4c21a5'}
+  - {seq: 1, filename: KR3ej060_001.yaml, hash: 'sha256:de552de010a88cc79d4d05dbc1f6ef90c1c25cf5db7a425ac938a0b87d7e228c'}
   - {seq: 2, filename: KR3ej060_002.yaml, hash: 'sha256:2f8f2623cb0ba59a00f4467e1db436a109eed37b5e0832eb2701ecdc3a74447e'}
   - {seq: 3, filename: KR3ej060_003.yaml, hash: 'sha256:5d6ad12802752d5e76bf9d8bf9bdf29937ca519474cee16ec9a4cb54c75670b1'}
   - {seq: 4, filename: KR3ej060_004.yaml, hash: 'sha256:74ff8d84c0252e5058db90e4bb26d696cb43c427a81c09cd518376c69857467a'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 6, filename: KR3ej060_006.yaml, hash: 'sha256:479027c28d14e5c4c92b6f7a743dddbad4063b40ca02c9c80133d3143d24db5a'}
   - {seq: 7, filename: KR3ej060_007.yaml, hash: 'sha256:0e272d11dec1f565f9c1feae7ae4f6150fd47506a875c8a379eabaa1e89b0f85'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ej060_001.markers.yaml, hash: 'sha256:ff69692382c11ed9c7535970d9ebff6dc85f61a2ca38f3f6bd1f01927324f4b5'}
+  - {seq: 1, role: markers, filename: assets/KR3ej060_001.markers.yaml, hash: 'sha256:d487871f7ce81676d4dd8b273f7c2beaa7a2331ab87e27462e5032c97959707b'}
   - {seq: 2, role: markers, filename: assets/KR3ej060_002.markers.yaml, hash: 'sha256:f174c19025071fd7c9d8fa91d9e89d1823e5b46173a0f00ae6980a954b7f3afa'}
   - {seq: 3, role: markers, filename: assets/KR3ej060_003.markers.yaml, hash: 'sha256:a43cc1f60c27be09a702fc395460b603b91ebe3cb71daa161bf77a036eaa8d2e'}
   - {seq: 4, role: markers, filename: assets/KR3ej060_004.markers.yaml, hash: 'sha256:bd1204e8fbcf0117c75cfca06f29708c4f56ad17bf06553aef06ee0df674083d'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ej060_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 0
     - 395
   label: 自序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ej060_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 395
     - 935
   label: 毛序
@@ -58,8 +58,8 @@ table_of_contents:
     marker_id: KR3ej060_jc_000-d2.h1s1
     span:
     - body
-    - 0
-    - 444
+    - 935
+    - 1379
   label: 金敘
   type: section
   level: 1
@@ -1343,7 +1343,7 @@ table_of_contents:
   label: 治血熱壅遏有五法
   type: section
   level: 2
-hash: sha256:26d75d0ead11e08a17392e566217e3abf86459028ea39e3e478447b6ceb985c6
+hash: sha256:1b08b0fa6cb4eac176b9d8dbcb2f154405c0ae458e7b1c53507a64d911bcf221
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
